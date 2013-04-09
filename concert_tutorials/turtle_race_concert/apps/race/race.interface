@@ -1,0 +1,6 @@
+subscribers:
+  - race_start
+  - race_winner
+publishers:
+  - race_finished
+services: []
