@@ -1,5 +1,0 @@
-subscribers:
-  - pose
-publishers:
-  - cmd_vel
-services: []
