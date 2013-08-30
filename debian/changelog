@@ -1,0 +1,90 @@
+ros-hydro-multinav-concert (0.5.6-0precise) precise; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Thu, 29 Aug 2013 15:00:00 -0000
+
+ros-hydro-multinav-concert (0.5.5-0precise) precise; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Tue, 06 Aug 2013 15:00:00 -0000
+
+ros-hydro-multinav-concert (0.5.4-0precise) precise; urgency=high
+
+  * 0.5.3
+  * fixing multinav
+  * delete legacy directory
+  * migratin
+  * fixing links
+  * adding rapps file
+  * merge packages
+  * reviving multinav
+  * rapp list path fix
+  * ignore multinav for now - rosinstallers are all broken.
+  * typo in package.xml
+  * migrate multinav concert into tutorial
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Wed, 17 Jul 2013 15:00:00 -0000
+
+ros-hydro-multinav-concert (0.5.3-0precise) precise; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Mon, 03 Jun 2013 15:00:00 -0000
+
+ros-hydro-multinav-concert (0.5.2-0precise) precise; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Mon, 27 May 2013 15:00:00 -0000
+
+ros-hydro-multinav-concert (0.5.1-0precise) precise; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Mon, 27 May 2013 02:49:00 -0000
+
+ros-hydro-multinav-concert (0.5.0-0precise) precise; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Mon, 27 May 2013 02:09:00 -0000
+
+ros-hydro-multinav-concert (0.3.5-0precise) precise; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Mon, 08 Apr 2013 15:00:00 -0000
+
+ros-hydro-multinav-concert (0.3.4-0precise) precise; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Sun, 07 Apr 2013 15:00:00 -0000
+
+ros-hydro-multinav-concert (0.3.3-0precise) precise; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Sun, 07 Apr 2013 14:11:00 -0000
+
+ros-hydro-multinav-concert (0.3.2-0precise) precise; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Sun, 07 Apr 2013 14:08:00 -0000
+
+ros-hydro-multinav-concert (0.3.1-0precise) precise; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Sun, 07 Apr 2013 14:06:00 -0000
+
+ros-hydro-multinav-concert (0.3.0-0precise) precise; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Sun, 07 Apr 2013 12:34:00 -0000
+
+
