@@ -1,0 +1,86 @@
+ros-hydro-turtle-stroll (0.5.6-0precise) precise; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Thu, 29 Aug 2013 15:00:00 -0000
+
+ros-hydro-turtle-stroll (0.5.5-0precise) precise; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Tue, 06 Aug 2013 15:00:00 -0000
+
+ros-hydro-turtle-stroll (0.5.4-0precise) precise; urgency=high
+
+  * turtle_stroll: adds message dependencies
+  * turtle_stroll: removes rosbuild files
+  * 0.5.3
+  * 0.5.2
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Wed, 17 Jul 2013 15:00:00 -0000
+
+ros-hydro-turtle-stroll (0.5.3-0precise) precise; urgency=high
+
+  * reverting twist to turtle velocity in groovy
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 03 Jun 2013 15:00:00 -0000
+
+ros-hydro-turtle-stroll (0.5.2-0precise) precise; urgency=high
+
+  * 0.5.1
+  * 0.5.0
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 27 May 2013 15:00:00 -0000
+
+ros-hydro-turtle-stroll (0.5.1-0precise) precise; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 27 May 2013 02:49:00 -0000
+
+ros-hydro-turtle-stroll (0.5.0-0precise) precise; urgency=high
+
+  * 0.4.0
+  * 0.3.4
+  * bringing up to speed with groovy-devel branch.
+  * turtle_stroll uses geometry_msgs. command_velocity to cmd_vel. removing wrong setup.py
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 27 May 2013 02:09:00 -0000
+
+ros-hydro-turtle-stroll (0.3.5-0precise) precise; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 08 Apr 2013 15:00:00 -0000
+
+ros-hydro-turtle-stroll (0.3.4-0precise) precise; urgency=high
+
+  * the real 0.3.4
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 07 Apr 2013 15:00:00 -0000
+
+ros-hydro-turtle-stroll (0.3.3-0precise) precise; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 07 Apr 2013 14:11:00 -0000
+
+ros-hydro-turtle-stroll (0.3.2-0precise) precise; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 07 Apr 2013 14:08:00 -0000
+
+ros-hydro-turtle-stroll (0.3.1-0precise) precise; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 07 Apr 2013 14:06:00 -0000
+
+ros-hydro-turtle-stroll (0.3.0-0precise) precise; urgency=high
+
+  * migrating component packages into software subdirectory
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 07 Apr 2013 12:34:00 -0000
+
+
