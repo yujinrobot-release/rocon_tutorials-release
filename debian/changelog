@@ -1,0 +1,99 @@
+ros-hydro-rocon-gateway-tutorials (0.5.6-0precise) precise; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Thu, 29 Aug 2013 15:00:00 -0000
+
+ros-hydro-rocon-gateway-tutorials (0.5.5-0precise) precise; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Tue, 06 Aug 2013 15:00:00 -0000
+
+ros-hydro-rocon-gateway-tutorials (0.5.4-0precise) precise; urgency=high
+
+  * 0.5.3
+  * 0.5.2
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Wed, 17 Jul 2013 15:00:00 -0000
+
+ros-hydro-rocon-gateway-tutorials (0.5.3-0precise) precise; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 03 Jun 2013 15:00:00 -0000
+
+ros-hydro-rocon-gateway-tutorials (0.5.2-0precise) precise; urgency=high
+
+  * 0.5.1
+  * 0.5.0
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 27 May 2013 15:00:00 -0000
+
+ros-hydro-rocon-gateway-tutorials (0.5.1-0precise) precise; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 27 May 2013 02:49:00 -0000
+
+ros-hydro-rocon-gateway-tutorials (0.5.0-0precise) precise; urgency=high
+
+  * finalising tutorials, one bug left.
+  * multihub updates for tutorials, adding rocon launchers as well.
+  * hub and command line tutorials updated.
+  * catkin update for sources.
+  * multihub rocon launcher for testing/tutorial.
+  * use args instead of reproducing launcher content.
+  * 0.4.0
+  * 0.3.4
+  * bringing up to speed with groovy-devel branch.
+  * remove concert pirate files.
+  * multilaunch file for pirate_chatter.
+  * convenient rocon launcher for pirate chatter.
+  * rocon launcher for pirate chatter testing.
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 27 May 2013 02:09:00 -0000
+
+ros-hydro-rocon-gateway-tutorials (0.3.5-0precise) precise; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 08 Apr 2013 15:00:00 -0000
+
+ros-hydro-rocon-gateway-tutorials (0.3.4-0precise) precise; urgency=high
+
+  * the real 0.3.4
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 07 Apr 2013 15:00:00 -0000
+
+ros-hydro-rocon-gateway-tutorials (0.3.3-0precise) precise; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 07 Apr 2013 14:11:00 -0000
+
+ros-hydro-rocon-gateway-tutorials (0.3.2-0precise) precise; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 07 Apr 2013 14:08:00 -0000
+
+ros-hydro-rocon-gateway-tutorials (0.3.1-0precise) precise; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 07 Apr 2013 14:06:00 -0000
+
+ros-hydro-rocon-gateway-tutorials (0.3.0-0precise) precise; urgency=high
+
+  * update jihoon email
+  * catkinization.
+  * gateway tutorials catkinized.
+  * roscpp/rospy talker/listener.
+  * talker, listener launchers and eclipse files.
+  * fix dependencies, make sure turtle_concert is running.
+  * copied tutorials in from everywhere else.
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 07 Apr 2013 12:34:00 -0000
+
+
