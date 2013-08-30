@@ -1,0 +1,12 @@
+Source: ros-hydro-chatter-concert
+Section: misc
+Priority: extra
+Maintainer: Daniel Stonier <d.stonier@gmail.com>
+Build-Depends: debhelper (>= 7.0.50~), ros-hydro-catkin
+Homepage: http://ros.org/wiki/chatter_concert
+Standards-Version: 3.9.2
+
+Package: ros-hydro-chatter-concert
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-concert-conductor, ros-hydro-concert-orchestra, ros-hydro-rocon-app-manager, ros-hydro-rocon-apps, ros-hydro-rospy-tutorials, ros-hydro-zeroconf-avahi
+Description: A very simple software concert with talker/listener apps.
