@@ -1,0 +1,12 @@
+Source: ros-indigo-rocon-tutorials
+Section: misc
+Priority: extra
+Maintainer: Daniel Stonier <d.stonier@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://www.ros.org/wiki/rocon_tutorials
+Standards-Version: 3.9.2
+
+Package: ros-indigo-rocon-tutorials
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-chatter-concert, ros-indigo-rocon-app-manager-tutorials, ros-indigo-rocon-gateway-tutorials, ros-indigo-turtle-concert
+Description: Various tutorials to demonstrate in simulation, the rocon framework.
