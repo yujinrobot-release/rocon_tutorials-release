@@ -1,6 +1,11 @@
 <concert>
-  <launch package="turtle_concert" name="concert.launch" port="11311"/>
-  <launch package="turtle_concert" name="kobuki.launch" port="11312"/>
-  <launch package="turtle_concert" name="guimul.launch" port="11313"/>
-  <launch package="turtle_concert" name="turtlesim.launch" port="11314"/>
+  <arg name="scheduler_type" default="preemptive_compatibility_tree"/> <!-- compatibility_tree, simple -->
+  <arg name="local_machine_only" default="true"/>  <!-- only invite clients if they are on the same pc -->
+
+  <launch title="concert:11311"   package="turtle_concert" name="concert.launch" port="11311">
+    <arg name="turtle_services" value="turtle_concert/turtle.services"/>
+    <arg name="concert_name" value="Turtle Concert"/>
+    <arg name="scheduler_type" value="$(arg scheduler_type)"/>
+    <arg name="local_machine_only" value="$(arg local_machine_only)"/>
+  </launch>
 </concert>
