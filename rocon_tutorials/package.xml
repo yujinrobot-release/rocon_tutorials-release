@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>rocon_tutorials</name>
-  <version>0.6.1</version>
+  <version>0.6.2</version>
   <description>
      Various tutorials to demonstrate in simulation, the rocon framework.
   </description>
@@ -19,6 +19,7 @@
   <run_depend>rocon_gateway_tutorials</run_depend>
   <run_depend>turtle_concert</run_depend>
   <run_depend>chatter_concert</run_depend>
+  <run_depend>gazebo_concert</run_depend>
 
   <export>
     <metapackage/>
