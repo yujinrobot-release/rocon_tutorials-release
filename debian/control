@@ -1,0 +1,12 @@
+Source: ros-indigo-chatter-concert
+Section: misc
+Priority: extra
+Maintainer: Daniel Stonier <d.stonier@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://ros.org/wiki/chatter_concert
+Standards-Version: 3.9.2
+
+Package: ros-indigo-chatter-concert
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-concert-master, ros-indigo-concert-service-admin, ros-indigo-concert-service-link-graph, ros-indigo-concert-service-utilities, ros-indigo-rocon-app-manager, ros-indigo-rocon-apps, ros-indigo-rocon-bubble-icons, ros-indigo-rocon-python-utils, ros-indigo-rospy-tutorials, ros-indigo-zeroconf-avahi
+Description: A very simple software concert with talker/listener apps.
