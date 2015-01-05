@@ -2,6 +2,9 @@
 Changelog for package concert_tutorial
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.3 (2015-01-05)
+------------------
+
 0.6.2 (2014-11-29)
 ------------------
 * auto_enable_services now use all instead of bool
