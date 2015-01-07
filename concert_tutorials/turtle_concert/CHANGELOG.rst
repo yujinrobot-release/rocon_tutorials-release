@@ -2,6 +2,11 @@
 Changelog for package turtle_concert
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.4 (2015-01-07)
+------------------
+* install turtle_pony.py closes `#52 <https://github.com/robotics-in-concert/rocon_tutorials/issues/52>`_
+* Contributors: Jihoon Lee
+
 0.6.3 (2015-01-05)
 ------------------
 
