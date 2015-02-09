@@ -2,6 +2,12 @@
 Changelog for package chatter_concert
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.5 (2015-02-09)
+------------------
+* revert unused src
+* change name of auto enable service argument
+* Contributors: dwlee
+
 0.6.4 (2015-01-07)
 ------------------
 
