@@ -2,6 +2,11 @@
 Changelog for package chatter_concert
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.6 (2015-02-27)
+------------------
+* disable zeroconf option
+* Contributors: Jihoon Lee
+
 0.6.5 (2015-02-09)
 ------------------
 * revert unused src
