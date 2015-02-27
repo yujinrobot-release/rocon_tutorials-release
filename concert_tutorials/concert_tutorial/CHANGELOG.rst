@@ -2,6 +2,9 @@
 Changelog for package concert_tutorial
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.6 (2015-02-27)
+------------------
+
 0.6.5 (2015-02-09)
 ------------------
 * change name of auto enable service argument
