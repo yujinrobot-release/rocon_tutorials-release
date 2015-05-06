@@ -1,3 +1,33 @@
+## rocon_tutorials (indigo) - 0.6.7-0
+
+The packages in the `rocon_tutorials` repository were released into the `indigo` distro by running `/usr/bin/bloom-release rocon_tutorials -t indigo -r indigo` on `Wed, 06 May 2015 07:44:25 -0000`
+
+These packages were released:
+- `chatter_concert`
+- `gazebo_concert`
+- `rocon_app_manager_tutorials`
+- `rocon_gateway_tutorials`
+- `rocon_tutorials`
+- `turtle_concert`
+
+These packages were explicitly ignored:
+- `concert_tutorial`
+
+Version of package(s) in repository `rocon_tutorials`:
+- upstream repository: https://github.com/robotics-in-concert/rocon_tutorials.git
+- release repository: https://github.com/yujinrobot-release/rocon_tutorials-release.git
+- rosdistro version: `0.6.6-0`
+- old version: `0.6.6-0`
+- new version: `0.6.7-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.8`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.36`
+
+
 ## rocon_tutorials (indigo) - 0.6.6-0
 
 The packages in the `rocon_tutorials` repository were released into the `indigo` distro by running `/usr/bin/bloom-release rocon_tutorials -t indigo -r indigo` on `Fri, 27 Feb 2015 07:48:30 -0000`
