@@ -1,0 +1,143 @@
+ros-indigo-rocon-tutorials (0.6.7-0saucy) saucy; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Tue, 05 May 2015 15:00:00 -0000
+
+ros-indigo-rocon-tutorials (0.6.6-0saucy) saucy; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Thu, 26 Feb 2015 15:00:00 -0000
+
+ros-indigo-rocon-tutorials (0.6.5-0saucy) saucy; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 08 Feb 2015 15:00:00 -0000
+
+ros-indigo-rocon-tutorials (0.6.4-0saucy) saucy; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Tue, 06 Jan 2015 15:00:00 -0000
+
+ros-indigo-rocon-tutorials (0.6.3-0saucy) saucy; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 04 Jan 2015 15:00:00 -0000
+
+ros-indigo-rocon-tutorials (0.6.2-0saucy) saucy; urgency=high
+
+  * update package.xml
+  * Contributors: Jihoon Lee
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Fri, 28 Nov 2014 15:00:00 -0000
+
+ros-indigo-rocon-tutorials (0.6.1-0saucy) saucy; urgency=high
+
+  * remove unnecessary run_depend
+  * Contributors: Jihoon Lee
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 25 Aug 2014 15:00:00 -0000
+
+ros-indigo-rocon-tutorials (0.6.0-0saucy) saucy; urgency=high
+
+  * rapp manager tutorial package started.
+  * transferred concert_solution from rocon_concert to concert_tutorial
+  * Contributors: Daniel Stonier
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 25 Aug 2014 15:00:00 -0000
+
+ros-indigo-rocon-tutorials (0.5.6-0saucy) saucy; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Thu, 29 Aug 2013 15:00:00 -0000
+
+ros-indigo-rocon-tutorials (0.5.5-0saucy) saucy; urgency=high
+
+  * adding Multinav concert in meta package
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Tue, 06 Aug 2013 15:00:00 -0000
+
+ros-indigo-rocon-tutorials (0.5.4-0saucy) saucy; urgency=high
+
+  * 0.5.3
+  * 0.5.2
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Wed, 17 Jul 2013 15:00:00 -0000
+
+ros-indigo-rocon-tutorials (0.5.3-0saucy) saucy; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 03 Jun 2013 15:00:00 -0000
+
+ros-indigo-rocon-tutorials (0.5.2-0saucy) saucy; urgency=high
+
+  * 0.5.1
+  * 0.5.0
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 27 May 2013 15:00:00 -0000
+
+ros-indigo-rocon-tutorials (0.5.1-0saucy) saucy; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 27 May 2013 02:49:00 -0000
+
+ros-indigo-rocon-tutorials (0.5.0-0saucy) saucy; urgency=high
+
+  * merge from hydro
+  * 0.4.0
+  * 0.3.4
+  * metapackages probably need catkin.
+  * bringing up to speed with groovy-devel branch.
+  * not finished or used, reinsert later if desired.
+  * adding CMakelist for meta pkgs
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 27 May 2013 02:09:00 -0000
+
+ros-indigo-rocon-tutorials (0.3.5-0saucy) saucy; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 08 Apr 2013 15:00:00 -0000
+
+ros-indigo-rocon-tutorials (0.3.4-0saucy) saucy; urgency=high
+
+  * metapackages probably need catkin.
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 07 Apr 2013 15:00:00 -0000
+
+ros-indigo-rocon-tutorials (0.3.3-0saucy) saucy; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 07 Apr 2013 14:11:00 -0000
+
+ros-indigo-rocon-tutorials (0.3.2-0saucy) saucy; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 07 Apr 2013 14:08:00 -0000
+
+ros-indigo-rocon-tutorials (0.3.1-0saucy) saucy; urgency=high
+
+  * bloom insists on CMakeLists.txt inside metapackages now.
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 07 Apr 2013 14:06:00 -0000
+
+ros-indigo-rocon-tutorials (0.3.0-0saucy) saucy; urgency=high
+
+  * remove confusing metapackage dependencies.
+  * update jihoon email
+  * no more concert client, also added metapackage to metapackage dependencies.
+  * some moving around, also chatter_concert.
+  * gateway tutorials catkinized.
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 07 Apr 2013 12:34:00 -0000
+
+
