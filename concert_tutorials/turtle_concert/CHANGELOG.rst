@@ -2,6 +2,9 @@
 Changelog for package turtle_concert
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.7 (2015-05-06)
+------------------
+
 0.6.6 (2015-02-27)
 ------------------
 * default values for request turtle closes `#58 <https://github.com/robotics-in-concert/rocon_tutorials/issues/58>`_
