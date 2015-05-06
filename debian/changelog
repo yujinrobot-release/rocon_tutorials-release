@@ -1,0 +1,150 @@
+ros-indigo-rocon-gateway-tutorials (0.6.7-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Tue, 05 May 2015 15:00:00 -0000
+
+ros-indigo-rocon-gateway-tutorials (0.6.6-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Thu, 26 Feb 2015 15:00:00 -0000
+
+ros-indigo-rocon-gateway-tutorials (0.6.5-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 08 Feb 2015 15:00:00 -0000
+
+ros-indigo-rocon-gateway-tutorials (0.6.4-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Tue, 06 Jan 2015 15:00:00 -0000
+
+ros-indigo-rocon-gateway-tutorials (0.6.3-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 04 Jan 2015 15:00:00 -0000
+
+ros-indigo-rocon-gateway-tutorials (0.6.2-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Fri, 28 Nov 2014 15:00:00 -0000
+
+ros-indigo-rocon-gateway-tutorials (0.6.1-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 25 Aug 2014 15:00:00 -0000
+
+ros-indigo-rocon-gateway-tutorials (0.6.0-0trusty) trusty; urgency=high
+
+  * remove erroneous and unused python setup rules.
+  * rocon_gateway_tutorials file setup.py found but no catkin_python_setup() call
+  * use proper lists for hubs/concerts now roslaunch can handle it.
+  * Contributors: Daniel Stonier, Jihoon Lee
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 25 Aug 2014 15:00:00 -0000
+
+ros-indigo-rocon-gateway-tutorials (0.5.6-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Thu, 29 Aug 2013 15:00:00 -0000
+
+ros-indigo-rocon-gateway-tutorials (0.5.5-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Tue, 06 Aug 2013 15:00:00 -0000
+
+ros-indigo-rocon-gateway-tutorials (0.5.4-0trusty) trusty; urgency=high
+
+  * 0.5.3
+  * 0.5.2
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Wed, 17 Jul 2013 15:00:00 -0000
+
+ros-indigo-rocon-gateway-tutorials (0.5.3-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 03 Jun 2013 15:00:00 -0000
+
+ros-indigo-rocon-gateway-tutorials (0.5.2-0trusty) trusty; urgency=high
+
+  * 0.5.1
+  * 0.5.0
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 27 May 2013 15:00:00 -0000
+
+ros-indigo-rocon-gateway-tutorials (0.5.1-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 27 May 2013 02:49:00 -0000
+
+ros-indigo-rocon-gateway-tutorials (0.5.0-0trusty) trusty; urgency=high
+
+  * finalising tutorials, one bug left.
+  * multihub updates for tutorials, adding rocon launchers as well.
+  * hub and command line tutorials updated.
+  * catkin update for sources.
+  * multihub rocon launcher for testing/tutorial.
+  * use args instead of reproducing launcher content.
+  * 0.4.0
+  * 0.3.4
+  * bringing up to speed with groovy-devel branch.
+  * remove concert pirate files.
+  * multilaunch file for pirate_chatter.
+  * convenient rocon launcher for pirate chatter.
+  * rocon launcher for pirate chatter testing.
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 27 May 2013 02:09:00 -0000
+
+ros-indigo-rocon-gateway-tutorials (0.3.5-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 08 Apr 2013 15:00:00 -0000
+
+ros-indigo-rocon-gateway-tutorials (0.3.4-0trusty) trusty; urgency=high
+
+  * the real 0.3.4
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 07 Apr 2013 15:00:00 -0000
+
+ros-indigo-rocon-gateway-tutorials (0.3.3-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 07 Apr 2013 14:11:00 -0000
+
+ros-indigo-rocon-gateway-tutorials (0.3.2-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 07 Apr 2013 14:08:00 -0000
+
+ros-indigo-rocon-gateway-tutorials (0.3.1-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 07 Apr 2013 14:06:00 -0000
+
+ros-indigo-rocon-gateway-tutorials (0.3.0-0trusty) trusty; urgency=high
+
+  * update jihoon email
+  * catkinization.
+  * gateway tutorials catkinized.
+  * roscpp/rospy talker/listener.
+  * talker, listener launchers and eclipse files.
+  * fix dependencies, make sure turtle_concert is running.
+  * copied tutorials in from everywhere else.
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 07 Apr 2013 12:34:00 -0000
+
+
